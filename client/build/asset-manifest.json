@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adb5055d.css",
+    "main.js": "/static/js/main.30beeb4d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/c8.jpg": "/static/media/c8.1e70bf8d0fafe7750687.jpg",
+    "static/media/c7.jpg": "/static/media/c7.45cecd960894c3d15d5f.jpg",
+    "static/media/c6.jpg": "/static/media/c6.0d9c5b0a7d510da559ac.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.7fb9449ea41cddbe0975.jpg",
+    "static/media/c1.jpg": "/static/media/c1.e538d62292d3152dc212.jpg",
+    "static/media/pune.jpg": "/static/media/pune.ec679710093118991751.jpg",
+    "static/media/mumbai.jpg": "/static/media/mumbai.f76d82dfa7072de1f38b.jpg",
+    "static/media/c2.jpg": "/static/media/c2.e631ffc08cb9fc1a86f9.jpg",
+    "static/media/bangalore.jpg": "/static/media/bangalore.8050c0122fe140b99509.jpg",
+    "static/media/chandigarh.jpg": "/static/media/chandigarh.01e4ee921bfcc07dcdf1.jpg",
+    "static/media/c5.jpg": "/static/media/c5.ebd2e5e658d72412979f.jpg",
+    "static/media/banner.png": "/static/media/banner.9921170b18df28a2d462.png",
+    "static/media/c3.jpg": "/static/media/c3.3bcdbd1989b61f250950.jpg",
+    "static/media/banner.jpg": "/static/media/banner.9caece748a8c73c21109.jpg",
+    "static/media/c4.jpg": "/static/media/c4.d9cc534ca80cc9595a10.jpg",
+    "static/media/terms2.jfif": "/static/media/terms2.68a6d4f34027c7d54158.jfif",
+    "static/media/terms.webp": "/static/media/terms.b96162ccc8ef10bc9a0f.webp",
+    "index.html": "/index.html",
+    "main.adb5055d.css.map": "/static/css/main.adb5055d.css.map",
+    "main.30beeb4d.js.map": "/static/js/main.30beeb4d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb5055d.css",
+    "static/js/main.30beeb4d.js"
+  ]
+}
